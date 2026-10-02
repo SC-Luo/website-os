@@ -1,0 +1,17 @@
+# Local runtime and private project material
+.DS_Store
+.env
+.env.*
+node_modules/
+.codex/
+.runtime/
+cases/
+PROJECT_STATE.md
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pem
+*.key
+*credentials*
+*secret*
