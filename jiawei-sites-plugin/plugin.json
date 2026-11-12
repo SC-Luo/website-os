@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "website-os-jiawei",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "嘉偉老師版網站規劃、製作與驗收工作流程，使用 ChatGPT Sites 建站。"
 }
